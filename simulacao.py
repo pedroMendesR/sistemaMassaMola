@@ -37,8 +37,8 @@ t2 = []
 animacaoSistemaWidth = 1300
 animacaoSistemaHeight = 300
 size = 50
-calibri = PIL.ImageFont.truetype(r"misc/Calibri.ttf",14)
-imMola = PIL.Image.open("misc/mola.jpg")
+calibri = PIL.ImageFont.truetype(r"Calibri.ttf",14)
+imMola = PIL.Image.open("mola.jpg")
 
 constanteElastica = 50
 massaBloco = 5
